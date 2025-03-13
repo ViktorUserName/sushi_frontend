@@ -3,7 +3,6 @@
 import { ReactNode } from "react";
 import { Provider } from "react-redux";
 import { store } from "../../store/store";
-import Navbar from "@/components/Navbar";
 import Wrapper from "@/components/Wrapper";
 import Header from "@/components/Header/Header";
 import '../../styles/global.scss'
